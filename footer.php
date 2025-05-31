@@ -7,7 +7,7 @@
 </head>
 <body>
 
-    <footer class="bg-gradient-to-r from-indigo-200 via-purple-500 to-pink-200 shadow-inner mt-12">
+    <div class="bg-gradient-to-r from-indigo-200 via-purple-500 to-pink-200 shadow-inner mt-12">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-6">
             <div class="flex flex-col sm:flex-row justify-between items-center text-gray-700">
                 <div class="mb-4 sm:mb-0">
@@ -21,7 +21,7 @@
                 </div>
             </div>
         </div>
-    </footer>
+    </div>
     
 </body>
 </html>
