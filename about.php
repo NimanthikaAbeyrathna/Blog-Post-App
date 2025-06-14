@@ -18,7 +18,7 @@
     <img src="./images/myphoto.png" alt="" class="mx-auto rounded-full w-40 h-40 object-cover shadow-lg border-4 border-indigo-300"/>
     
     <p class="text-lg italic text-gray-600 leading-relaxed">
-        “This blog is where I share my book reviews, science experiments, and fun learning tips for kids like me!”
+        “This blog is where I share my book reviews, science experiments, and fun learning tips!”
     </p>
     
     <p class="text-md text-gray-700">
